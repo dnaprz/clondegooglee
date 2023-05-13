@@ -1,4 +1,4 @@
-# Clonación De Google
+# Clonación De Google 👩‍🏫
 
 ## ÍNDICE
 
@@ -24,3 +24,4 @@ En este proyecto, con los conocimientos de HTML y CSS realicé la clonación de 
 
 ## Objetivo del proyecto
 * Aprender a utilizar las etiquetas estándar de HTML5 y los estilos de CSS3.
+
