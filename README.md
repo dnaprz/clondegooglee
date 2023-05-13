@@ -2,9 +2,9 @@
 
 ## ÍNDICE
 
-* [1. Intro ☄](https://github.com/dnaprz/clondegooglee/blob/main/README.md#1-intro)
-* [2. ¿Qué contruí? ☄](https://github.com/dnaprz/clondegooglee/blob/main/README.md#2-qu%C3%A9-constru%C3%AD)
-* [3. Objetivo del proyecto ☄](https://github.com/dnaprz/clondegooglee/blob/main/README.md#objetivo-del-proyecto)
+* [1. Intro 🔎](https://github.com/dnaprz/clondegooglee/blob/main/README.md#1-intro)
+* [2. ¿Qué contruí? 🔎](https://github.com/dnaprz/clondegooglee/blob/main/README.md#2-qu%C3%A9-constru%C3%AD)
+* [3. Objetivo del proyecto 🔎](https://github.com/dnaprz/clondegooglee/blob/main/README.md#objetivo-del-proyecto)
 
 ****
 
