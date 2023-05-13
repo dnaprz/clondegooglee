@@ -22,6 +22,6 @@ En este proyecto, con los conocimientos de HTML y CSS realicé la clonación de 
 
 * **Footer**: Sección que incluye hipervínculos al final de la página.
 
-## Objetivo del proyecto 🌸
+## Objetivo del proyecto 🌻
 * Aprender a utilizar las etiquetas estándar de HTML5 y los estilos de CSS3.
 
